@@ -1,0 +1,92 @@
+Основная литература:
+* Руководство к своду знаний по управлению проектами (Руководство PMBOK®️). Шестое издание. Agile: практическое руководство - 2017
+* Петр Дикий. Управление проектами. Правильный путь для начинающих. - Издательские решения, 2019
+* Д. Сазерленд. Scrum. Революционный метод управления проектами. - Москва: Манн, Иванов и Фербер, 2020
+* Полковников А. В., Дубовик М. Ф. Управление проектами. Полный курс МВА. - Москва: Олимп- Бизнес, 2017
+* Б. Скотт. Сделано. Проектный менеджмент на практике. - Москва: Манн, Иванов и Фербер, 2019
+
+Дополнительная литература:
+* Репин В.В, Елиферов В.Г.  Процессный подход к управлению. - Москва: Манн, Иванов и Фербер, 2013
+* Репин В.В. Бизнес-процессы. Как их описать, отладить и внедрить. Практикум. - Москва: Манн, Иванов и Фербер, 2013
+* Репин В.В. Бизнес-процессы. Моделирование, внедрение, управление. - Москва: Манн, Иванов и Фербер, 2014
+* Д. Джестон, Й. Нелис. Управление бизнес-процессами: практическое руководство по успешной реализации процессов.- Санкт-Петербург, Москва: Символ-Плюс, 2008
+* Т. Демарко, Т. Листер. Человеческий фактор. Успешные проекты и команды - Москва: Символ-Плюс, 2014
+
+Официальный сайт Ассоциации управления проектами «СОВНЕТ»:
+https://www.sovnet.ru/publications/literature
+
+
+Полезные ссылки
+
+Полезные каналы и сообщества: 
+* Канал о семинарах, форумах, конференциях и других событиях в сфере управления проектами, портфелями, программами, продуктами и общем менеджменте https://t.me/PM_Events 
+* Канал про Agile, Scrum, Lean, XP, Kanban, инструменты повышения эффективности https://t.me/agile_ru 
+* Канал по машинному обучению @machinelearning_ru   
+* Каналы по вакансиям: 1.@agile_jobs   2.@projects_jobs    3.@ScrumTrekJobs 4.https://t.me/jobforjunior  
+* Сообщество Канбан-практиков https://kanbanguide.ru/ 
+* Инструмент для формирования ИСР www.lucid.app  
+* Удаленная работа-вакансии https://t.me/joinchat/AAAAAEweV092bhOyqDLePg  
+* Лучшие вакансии в IT & Digital https://t.me/newhr
+* Удаленщики https://t.me/job33 и https://t.me/theyseeku 
+* Определитель темперамента Кейрси https://psytests.org/temperament/keirsey-run.html
+* Вакансии https://t.me/alenavladimirskaya 
+
+Интересные статьи: 
+* Канбан Гайд: https://kanbanguide.ru/wp-content/uploads/2018/02/Essential-Kanban-Condensed-v1.0.01.02-_rus.pdf
+
+О Канбан-методе в IT-проектах:  
+* https://artjoker.ua/ru/blog/kanban-dlya-it-razrabotki/  
+* https://habr.com/ru/post/64997/
+* https://www.unisender.com/ru/support/about/glossary/kanban/ 
+* Пример разбиения проекта на таски https://www.unisender.com/ru/support/about/glossary/kanban/   
+* Чек-лист по работе с рисками https://drive.google.com/file/d/1IhINytLQ10DrreZCgOZl6zHmBDex2Qzf/view?usp=sharing 
+
+Как составлять User Story Mapping:
+* https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/
+* https://www.youtube.com/watch?v=Y65QBR0rUqk&t=716s
+
+* IT-словарик для не-айтишников https://habr.com/ru/company/jugru/blog/538698/ 
+
+О декомпозиции (темы/фичи, эпики, стори, таски): https://sun9-51.userapi.com/impg/geX7LuFj7vml6yUFwR8B4nJLvWWv_2a149pdiQ/XX7ZM49oncA.jpg?size=1170x686&quality=96&sign=48a8cee8f243aeda8b7b2e8b122e88e9&type=album
+
+Видеоматериалы: 
+* Открытый вебинар: "Как РМ-у пройти техническое собеседование" https://www.youtube.com/watch?v=p-9xs6rwc6c 
+* Открытый вебинар: "15 типов РМ-ов, которые бесят разработчиков" https://www.youtube.com/watch?v=6xu8WLM1Iqg 
+* Запись скрам встречи реальной команды https://youtu.be/gTKU0GiJwWc 
+* О PMBok https://youtu.be/yrHgc11i6_c
+
+Тесты 
+* Тест на проверку знаний “IT - Project Management: управление проектами в области информационных технологий” https://www.specialist.ru/test/prerequisite/8968
+* https://docs.google.com/forms/d/e/1FAIpQLSd9m1LAmjxwH9zTjbbjrIF482TfOdvkBICCZQUMMia9A5pKwg/
+
+Книги по написанию текстов и для деловой переписки:
+* Людмила Сарычева и М.Ильяхов «Новые правила деловой переписки». 
+* Обучающий курс по книге:
+	1 часть - https://www.youtube.com/watch?v=FLqR_khchuI;
+	2 часть - https://www.youtube.com/watch?v=ZkG6S4BHFfM; 
+	3 часть - https://www.youtube.com/watch?v=m1pHrblJYWo.
+
+* Людмила Сарычева и М.Ильяхов «Пиши, сокращай: как создать сильный текст»
+
+Книги и статьи по аналитике:
+* Методы сбора требований или «Как понять, что хочет заказчик?» / Хабр - https://habr.com/ru/company/simbirsoft/blog/307844/
+* Курс по постановке задач разработчику: https://stepik.org/course/1128/promo
+* BPMN 2.0 - http://www.bpmb.de/images/BPMN2_0_Poster_RU.pdf
+* Карл Вигерс, Джой Битти «Разработка требований к программному обеспечению»
+* Андрей Дмитриевич Перерва «Путь аналитика»
+* Гибкие методологии: https://habr.com/ru/post/464861/
+* Как начать карьеру в ИТ?
+
+CROC Boostcamp (http://boostcamp.croc.ru/?utm_source=telegram&utm_medium=d_code)  - старт развития в ИТ-сфере. Каждый участник команды занимает одну из ролей: менеджер ИТ-проекта, системный аналитик или разработчик. Обучение бесплатно. 
+
+Как стать менеджером проектов с нуля? 
+Обучение: 
+Основы управления проектами https://universarium.org/course/731
+
+Список аутсорсеров разработки от нашего преподавателя Ольги Смирновой:
+* Auriga
+* Epam Systems
+* Luxoft
+* MERA
+* SoftMediaLab
+* AndersenLab
